@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to IoxCorp
 
-You can use the [editor on GitHub](https://github.com/Thonkman/Thonkman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to IoxCorp, the worlds next innovation center.
+Here at IoxCorp, we are making the future... today! We specialize in making programs for high tech objects and systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### History
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The IoxCorp was founded in 04/01/20 by the "Ioxom Foundation", and is actively being sponsored by "The Birch Tree", It is also funded by "Thonkman"
 
 ```markdown
 Syntax highlighted code block
